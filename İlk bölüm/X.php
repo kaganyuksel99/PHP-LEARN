@@ -20,7 +20,7 @@
         çoklu açıklam satırım
 
     */
-    print "tayfun erbilen";
+    print "Kağan Yüksel";
 
     print "test";
 
