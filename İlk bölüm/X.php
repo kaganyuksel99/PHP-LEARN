@@ -8,8 +8,8 @@
 </head>
 <body>
 
-<?php echo "tayfun erbilen"; ?>
-<?="tayfun erbilen"?>
+<?php echo "Kağan Yüksel"; ?>
+<?="kağan yüksel"?>
 
 <?php
 
